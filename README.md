@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome!
+My name is Conni and i use She/Her Pronouns
+Im currently working on C++ Projects.
 
 <!--
 **ConniTheKiwi/ConniTheKiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
