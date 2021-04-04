@@ -8,7 +8,6 @@ within the project my main area of focus is the [BackendAPI](https://github.com/
 In general my main projects of interest are:
 - [Tranquility](https://github.com/The-name-Tranquility-is-already-taken)
 - [DiaryBot V2](https://github.com/ConniBug/DiaryBot-V2)
-- [Tranquility](https://github.com/The-name-Tranquility-is-already-taken)
 
 
 <!--
