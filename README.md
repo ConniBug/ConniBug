@@ -1,5 +1,5 @@
 ### Hello!
-My name is Conni and i use She/Her Pronouns. 
+My name is Conni. 
 
 My main project currently is [Tranquility](https://github.com/The-name-Tranquility-is-already-taken). 
 within the project my main area of focus is the [BackendAPI](https://github.com/The-name-Tranquility-is-already-taken/TranquilityServerAPI) and the infrastructure planning for the network.
