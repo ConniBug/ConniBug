@@ -1,12 +1,10 @@
 ### Hello!
-My name is Conni. 
 
-My main project currently is [Tranquility](https://github.com/The-name-Tranquility-is-already-taken). 
-within the project my main area of focus is the [BackendAPI](https://github.com/The-name-Tranquility-is-already-taken/TranquilityServerAPI) and the infrastructure planning for the network.
-
-In general my main projects are:
+My current active projects include:
 - [Tranquility](https://github.com/The-name-Tranquility-is-already-taken)
+- [JS Logging](https://github.com/ConniBug/JS-Logging)
 - [DiaryBot V2](https://github.com/ConniBug/DiaryBot-V2)
+- [Aphrodites](https://github.com/ConniBug/aphrodites-notif)
 
 
 <!--
