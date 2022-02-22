@@ -6,6 +6,9 @@ My current active projects include:
 - [DiaryBot V2](https://github.com/ConniBug/DiaryBot-V2)
 - [Aphrodites](https://github.com/ConniBug/aphrodites-notif)
 
+## Statistics
+![](https://github.com/ConniBug/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/ConniBug/github-stats/blob/master/generated/languages.svg)
 
 <!--
 **ConniTheKiwi/ConniTheKiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
