@@ -1,7 +1,7 @@
 ### Hello!
 
 My current active projects include:
-- [Learner Management System](https://lms-1.conni.lgbt/)
+- [Learner Management System](https://github.com/ConniBug/GibJohn-LMS)
 - [Tranquility](https://github.com/The-name-Tranquility-is-already-taken)
 - [JS Logging](https://github.com/ConniBug/JS-Logging)
 - [DiaryBot V2](https://github.com/ConniBug/DiaryBot-V2)
