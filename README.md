@@ -1,6 +1,9 @@
 ### Hello!
 
 My current active projects include:
+- [Galaxy Simulator (worked on with Lucy<3)](https://github.com/lucylamb0/galaxy-in-cpp)
+
+Older interesting projects include:
 - [Learner Management System](https://github.com/ConniBug/GibJohn-LMS)
 - [Tranquility](https://github.com/The-name-Tranquility-is-already-taken)
 - [JS Logging](https://github.com/ConniBug/JS-Logging)
