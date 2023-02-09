@@ -1,7 +1,8 @@
 ### Hello!
 
 My current active projects include:
-- [Galaxy Simulator (worked on with Lucy<3)](https://github.com/lucylamb0/galaxy-in-cpp)
+- [Galaxy Simulator (worked on with Lucy <3)](https://github.com/lucylamb0/galaxy-in-cpp)
+- [Galaxy Simulator UI (again -> worked on with Lucy <3)](https://github.com/ConniBug/GalaxySimIMGUI)
 
 Older interesting projects include:
 - [Learner Management System](https://github.com/ConniBug/GibJohn-LMS)
