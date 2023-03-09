@@ -1,14 +1,14 @@
-download.parallels.com
-update.parallels.com
-desktop.parallels.com
-download.parallels.com.cdn.cloudflare.net
-update.parallels.com.cdn.cloudflare.net
-desktop.parallels.com.cdn.cloudflare.net
-www.parallels.cn
-www.parallels.com
-reportus.parallels.com
-parallels.com
-parallels.cn
-pax-manager.myparallels.com
-myparallels.com
-my.parallels.com
+download.parallels.com 172.0.0.1
+update.parallels.com 172.0.0.1
+desktop.parallels.com 172.0.0.1
+download.parallels.com.cdn.cloudflare.net 172.0.0.1
+update.parallels.com.cdn.cloudflare.net 172.0.0.1
+desktop.parallels.com.cdn.cloudflare.net 172.0.0.1
+www.parallels.cn 172.0.0.1
+www.parallels.com 172.0.0.1
+reportus.parallels.com 172.0.0.1
+parallels.com 172.0.0.1
+parallels.cn 172.0.0.1
+pax-manager.myparallels.com 172.0.0.1
+myparallels.com 172.0.0.1
+my.parallels.com 172.0.0.1
