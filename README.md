@@ -1,7 +1,8 @@
 ### Hello!
 
 Checkout the projects im currently actively working on
-- [GCalander Remade Frontend](https://github.com/ConniBug/google-calendar-clone) Originally forked from [chaseottofy](https://github.com/chaseottofy/google-calendar-clone-vanilla)- [Gcalander Remade Backend](https://github.com/ConniBug/calander-api) 
+- [GCalander Remade Frontend](https://github.com/ConniBug/google-calendar-clone) Originally forked from [chaseottofy](https://github.com/chaseottofy/google-calendar-clone-vanilla)
+- [Gcalander Remade Backend](https://github.com/ConniBug/calander-api) 
 - [Galaxy Simulator](https://github.com/lucylamb0/galaxy-in-cpp) (worked on with Lucy <3)
 - [Galaxy Simulator UI](https://github.com/ConniBug/GalaxySimIMGUI) (again -> worked on with Lucy <3)
 
