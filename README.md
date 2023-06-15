@@ -1,15 +1,15 @@
 ### Hello!
 
-My current active projects include:
+Checkout the projects im currently actively working on
+- [GCalander Remade Frontend](https://github.com/ConniBug/google-calendar-clone) Originally forked from [chaseottofy](https://github.com/chaseottofy/google-calendar-clone-vanilla)- [Gcalander Remade Backend](https://github.com/ConniBug/calander-api) 
 - [Galaxy Simulator](https://github.com/lucylamb0/galaxy-in-cpp) (worked on with Lucy <3)
 - [Galaxy Simulator UI](https://github.com/ConniBug/GalaxySimIMGUI) (again -> worked on with Lucy <3)
 
-Older interesting projects include:
-- [Learner Management System](https://github.com/ConniBug/GibJohn-LMS)
-- [Tranquility](https://github.com/The-name-Tranquility-is-already-taken)
-- [JS Logging](https://github.com/ConniBug/JS-Logging)
-- [DiaryBot V2](https://github.com/ConniBug/DiaryBot-V2)
-- [Aphrodites](https://github.com/ConniBug/aphrodites-notif)
+Here are some older interesting projects that i dont currently work on:
+- [Tranquility](https://github.com/The-name-Tranquility-is-already-taken) Small project where i remade alot of the infestructure for a discord remake
+- [JS Logging](https://github.com/ConniBug/JS-Logging) Javascript logging module
+- [DiaryBot V2](https://github.com/ConniBug/DiaryBot-V2) Discord bot for custom user channels
+- [Aphrodites](https://github.com/ConniBug/aphrodites-notif) Bot for monitoring product stock, could be reused for any shopify site.
 
 ## Statistics
 ![](https://github.com/ConniBug/github-stats/blob/master/generated/overview.svg)
