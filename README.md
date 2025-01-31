@@ -2,12 +2,12 @@
 
 Checkout the projects im currently actively working on
 - [3D Rendering Engine](https://github.com/ConniBug/3d-engine) 
-- [GCalander Remade Frontend](https://github.com/ConniBug/google-calendar-clone) Originally forked from [chaseottofy](https://github.com/chaseottofy/google-calendar-clone-vanilla)
-- [Gcalander Remade Backend](https://github.com/ConniBug/calander-api) 
 - [Galaxy Simulator](https://github.com/lucylamb0/galaxy-in-cpp) (worked on with Lucy <3)
 - [Galaxy Simulator UI](https://github.com/ConniBug/GalaxySimIMGUI) (again -> worked on with Lucy <3)
 
 Here are some older interesting projects that i dont currently work on:
+- [GCalander Remade Frontend](https://github.com/ConniBug/google-calendar-clone) Originally forked from [chaseottofy](https://github.com/chaseottofy/google-calendar-clone-vanilla)
+- [Gcalander Remade Backend](https://github.com/ConniBug/calander-api)
 - [Tranquility](https://github.com/The-name-Tranquility-is-already-taken) Small project where i remade alot of the infestructure for a discord remake
 - [JS Logging](https://github.com/ConniBug/JS-Logging) Javascript logging module
 - [DiaryBot V2](https://github.com/ConniBug/DiaryBot-V2) Discord bot for custom user channels
